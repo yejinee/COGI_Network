@@ -1,6 +1,6 @@
-## Hyperledger Fabric Samples
+## Hyperledger Fabric Network
 
-Please visit the [installation instructions](http://hyperledger-fabric.readthedocs.io/en/latest/samples.html).
+THis repository is about the Hyperledger Fabric Network that includes 3 organizations,6 peers,1 channel and 1 chaincode.
 
 ## License <a name="license"></a>
 
